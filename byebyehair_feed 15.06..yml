@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-15 13:07">
+  <shop>
+    <name>ByeByeHair</name>
+    <company>ByeByeHair</company>
+    <url>https://byebyehair.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Массаж эндосфера</category>
+      <category id="2">Лазерная эпиляция для мужчин</category>
+      <category id="3">Миостимуляция</category>
+      <category id="4">Обёртывания</category>
+      <category id="5">Лазерная эпиляция</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Аппаратный массаж лица — первое посещение</name>
+        <url>https://byebyehair.ru</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced351d680e4e6654ca434d9619/orig</picture>
+        <description>Первое посещение. Аппаратный массаж лица эндосфера для лифтинга, уменьшения отёков и улучшения тонуса кожи. Аппаратный массаж эндосфера запускает лимфодренаж и микроциркуляцию. Массаж эндосфера комфортный и эффективный.</description>
+      </offer>
+      <offer id="2" available="true">
+        <name>Аппаратный массаж лица (30 минута)</name>
+        <url>https://byebyehair.ru</url>
+        <price>3200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced351d680e4e6654ca434d9619/orig</picture>
+        <description>Аппаратный массаж лица эндосфера для лифтинга, уменьшения отёков и улучшения тонуса кожи. Аппаратный массаж эндосфера запускает лимфодренаж и микроциркуляцию. Массаж эндосфера комфортный и эффективный.</description>
+      </offer>
+      <offer id="3" available="true">
+        <name>Аппаратный массаж тела (90 минута)</name>
+        <url>https://byebyehair.ru</url>
+        <price>6900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced302b1932201f3497ad344366/orig</picture>
+        <description>Аппаратный лимфодренажный массаж тела направлен на уменьшение отёков и улучшение контуров фигуры. Аппаратный массаж тела активирует лимфоток, ускоряет обменные процессы, повышает тонус кожи и помогает скорректировать силуэт.</description>
+      </offer>
+      <offer id="4" available="true">
+        <name>Аппаратный массаж тела (60 минута)</name>
+        <url>https://byebyehair.ru</url>
+        <price>4900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced302b1932201f3497ad344366/orig</picture>
+        <description>Аппаратный лимфодренажный массаж тела направлен на уменьшение отёков и улучшение контуров фигуры. Аппаратный массаж тела активирует лимфоток, ускоряет обменные процессы, повышает тонус кожи и помогает скорректировать силуэт.</description>
+      </offer>
+      <offer id="5" available="true">
+        <name>Лазерная эпиляция ягодиц для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+депиляция мужского бикини
+депиляция члена
+лазер для удаления волос
+лазерная эпиляция бикини для мужчин
+лазерная эпиляция для мужчин
+лазерная эпиляция для мужчин в москве
+лазерная эпиляция для мужчин зоны
+лазерная эпиляция лица для </description>
+      </offer>
+      <offer id="6" available="true">
+        <name>Лазерная эпиляция  бикини тотальное для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="7" available="true">
+        <name>Лазерная эпиляция поясницы для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>2500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="8" available="true">
+        <name>Лазерная эпиляция живота для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="9" available="true">
+        <name>Лазерная эпиляция спины для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="10" available="true">
+        <name>Лазерная эпиляция рук полностью для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="11" available="true">
+        <name>Лазерная эпиляция плеч для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="12" available="true">
+        <name>Лазерная эпиляция подмышки для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="13" available="true">
+        <name>Лазерная эпиляция шеи для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="14" available="true">
+        <name>Лазерная эпиляция лица полностью для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="15" available="true">
+        <name>Лазерная эпиляция баки для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="16" available="true">
+        <name>Лазерная эпиляция зоны усов для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="17" available="true">
+        <name>Лазерная эпиляция межбровья для мужчин</name>
+        <url>https://byebyehair.ru</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция для мужчин — удобное решение для удаления нежелательных волос на лице и теле. Процедура помогает сократить рост волос, сделать кожу более ухоженной и избежать раздражения после бритья. Подходит для разных зон и типов кожи.</description>
+      </offer>
+      <offer id="18" available="true">
+        <name>Лазерная эпиляция бакенбарды</name>
+        <url>https://byebyehair.ru</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced362f307f8da913176493bc31/orig</picture>
+        <description>Лазерная эпиляция бакенбардов — аккуратное решение для зоны висков и чёткого контура лица. В салоне используется гибридный лазер для эпиляции, который подходит для разных типов кожи и волос. Лазерное удаление волос помогает снизить рост и избежать раздражения.</description>
+      </offer>
+      <offer id="19" available="true">
+        <name>Миостимуляция тела, 4 насадки</name>
+        <url>https://byebyehair.ru</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced306809511d53db3977d53a45/orig</picture>
+        <description>Миостимуляция тела — аппаратная процедура для работы с мышцами и тонусом кожи. Аппарат миостимуляции воздействует мягкими импульсами и помогает сделать контуры тела более выраженными. Ждём вас у м. Улица 1905 года.</description>
+      </offer>
+      <offer id="20" available="true">
+        <name>Миостимуляция тела, 2 насадки</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced306809511d53db3977d53a45/orig</picture>
+        <description>Миостимуляция тела на 2 насадки — аппаратная процедура для работы с мышцами и тонусом кожи. Мягкие импульсы помогают подтянуть тело и сделать контуры более выраженными. Ждём вас у м. Улица 1905 года.</description>
+      </offer>
+      <offer id="21" available="true">
+        <name>Эндосфера + виски пеленание</name>
+        <url>https://byebyehair.ru</url>
+        <price>8500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced302b1932201f3497ad344366/orig</picture>
+        <description>Эндосфера + виски-пеленание — сочетание аппаратного массажа Endospheres и обёртывания для ухода за телом. Массаж эндосфера помогает проработать кожу и контуры, а виски-пеленание усиливает ощущение лёгкости. Ждём вас у м. Улица 1905 года.</description>
+      </offer>
+      <offer id="22" available="true">
+        <name>Обёртывание Styx Aromaderm «Целлогель»</name>
+        <url>https://byebyehair.ru</url>
+        <price>5500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2994796/2a0000019db112d144e9fe9a8dd51a81bc8c/orig</picture>
+        <description>Обёртывание Styx Aromaderm «Целлогель» помогает улучшить тонус кожи, уменьшить проявления целлюлита и чувство отёчности. Процедура сочетает уход, расслабление и выраженный эстетический эффект. 📍 Обёртывание Styx в Москве — ByeByeHair, м. Улица 1905 года ✨</description>
+      </offer>
+      <offer id="23" available="true">
+        <name>Обёртывание Styx Aromaderm «Виски пеленание»</name>
+        <url>https://byebyehair.ru</url>
+        <price>6500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced2f83682a0fa96d3546e31694/orig</picture>
+        <description>Виски-пеленание Styx помогает уменьшить отёчность, улучшить тонус кожи и сделать силуэт более подтянутым. Обёртывание Styx сочетает расслабляющий уход и выраженный эстетический эффект ✨ 📍 ByeByeHair, Москва, м. Улица 1905 года</description>
+      </offer>
+      <offer id="24" available="true">
+        <name>Лазерная эпиляция комплекс 4 (подмышки + грудь + живот + спина)</name>
+        <url>https://byebyehair.ru</url>
+        <price>14000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced2e87868539ca9c5bd77ba0d4/orig</picture>
+      </offer>
+      <offer id="25" available="true">
+        <name>Лазерная эпиляция комплекс 3 (подмышки + грудь + живот)</name>
+        <url>https://byebyehair.ru</url>
+        <price>8000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced2e87868539ca9c5bd77ba0d4/orig</picture>
+      </offer>
+      <offer id="26" available="true">
+        <name>Лазерная эпиляция комплекс 2 (подмышки + бикини)</name>
+        <url>https://byebyehair.ru</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced2e87868539ca9c5bd77ba0d4/orig</picture>
+      </offer>
+      <offer id="27" available="true">
+        <name>Лазерная эпиляция комплекс 1 (лицо + шея)</name>
+        <url>https://byebyehair.ru</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced2e87868539ca9c5bd77ba0d4/orig</picture>
+      </offer>
+      <offer id="28" available="true">
+        <name>Лазерная эпиляция комплекс 7 (подмышки + бикини + ноги + руки + лицо)</name>
+        <url>https://byebyehair.ru</url>
+        <price>10500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="29" available="true">
+        <name>Лазерная эпиляция комплекс 6 (подмышки + бикини + ноги + руки)</name>
+        <url>https://byebyehair.ru</url>
+        <price>8500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="30" available="true">
+        <name>Лазерная эпиляция комплекс 5 (подмышки + бикини + ноги + ягодицы)</name>
+        <url>https://byebyehair.ru</url>
+        <price>8500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="31" available="true">
+        <name>Лазерная эпиляция комплекс 4 (подмышки + бикини + ноги полностью)</name>
+        <url>https://byebyehair.ru</url>
+        <price>7500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="32" available="true">
+        <name>Лазерная эпиляция комплекс 3 (подмышки + бикини + голени + руки)</name>
+        <url>https://byebyehair.ru</url>
+        <price>7500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="33" available="true">
+        <name>Лазерная эпиляция комплекс 2 (подмышки + бикини + голени)</name>
+        <url>https://byebyehair.ru</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="34" available="true">
+        <name>Лазерная эпиляция комплекс 1 (подмышки + бикини тотальное)</name>
+        <url>https://byebyehair.ru</url>
+        <price>4500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced2d1432bdf2910468483c0e54/orig</picture>
+      </offer>
+      <offer id="35" available="true">
+        <name>Лазерная эпиляция ног полностью</name>
+        <url>https://byebyehair.ru</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced2c020f279624e60be07306c6/orig</picture>
+        <description>Лазерная эпиляция ног — эффективное удаление волос с длительным результатом. Лазерная эпиляция ноги полностью позволяет проработать всю зону и добиться гладкости кожи уже после первых процедур</description>
+      </offer>
+      <offer id="36" available="true">
+        <name>Лазерная эпиляция голеней</name>
+        <url>https://byebyehair.ru</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced2c020f279624e60be07306c6/orig</picture>
+        <description>Лазерная эпиляция ног — эффективное удаление волос с длительным результатом. Лазерная эпиляция голени подходит для разных типов кожи и помогает добиться гладкости. Ноги после лазерной эпиляции становятся мягкими уже после первых процедур</description>
+      </offer>
+      <offer id="37" available="true">
+        <name>Лазерная эпиляция бедер</name>
+        <url>https://byebyehair.ru</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced2c020f279624e60be07306c6/orig</picture>
+        <description>Лазерная эпиляция бедра — эффективное лазерное удаление волос с длительным результатом. Процедура подходит для разных типов кожи, проходит комфортно и помогает добиться гладкости уже после первых сеансов/</description>
+      </offer>
+      <offer id="38" available="true">
+        <name>Лазерная эпиляция ягодиц</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced297cf9fa11c6cb3ee880e88d/orig</picture>
+        <description>Лазерная эпиляция ягодиц — эффективное удаление волос лазером с длительным результатом. Процедура подходит для разных типов кожи, проходит комфортно и помогает добиться гладкости уже после первых сеансов ✨</description>
+      </offer>
+      <offer id="39" available="true">
+        <name>Лазерная эпиляция бикини тотальное</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced23b00644f13c8141dd636ae2/orig</picture>
+        <description>Бикини тотальное лазерная эпиляция  — деликатное удаление волос с максимальной чистотой результата. Лазерная эпиляция глубокое бикини подходит для чувствительной кожи и помогает добиться гладкости уже после первых процедур ✨</description>
+      </offer>
+      <offer id="40" available="true">
+        <name>Лазерная эпиляция бикини классика</name>
+        <url>https://byebyehair.ru</url>
+        <price>2500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced23b00644f13c8141dd636ae2/orig</picture>
+        <description>Лазерная эпиляция бикини — деликатное удаление волос с длительным эффектом. Лазерная эпиляция зоны бикини подходит для чувствительной кожи, помогает избежать раздражения и обеспечивает гладкость уже после первых процедур ✨</description>
+      </offer>
+      <offer id="41" available="true">
+        <name>Лазерная эпиляция поясницы</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced297cf9fa11c6cb3ee880e88d/orig</picture>
+        <description>Лазерная эпиляция поясницы — эффективное удаление волос лазером с длительным результатом. Эпиляция диодным лазером подходит для разных типов кожи и волос, обеспечивая комфортную процедуру и заметную гладкость уже после первых сеансов ✨</description>
+      </offer>
+      <offer id="42" available="true">
+        <name>Лазерная эпиляция живота полностью</name>
+        <url>https://byebyehair.ru</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced297cf9fa11c6cb3ee880e88d/orig</picture>
+        <description>Лазерная эпиляция живота — эффективная процедура для удаления волос. Живот полностью лазерная эпиляция позволяет проработать всю зону и добиться гладкости кожи. Подходит для разных типов кожи, результат заметен уже после первых процедур.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+живот полностью лазерная эпиляция
+лазерная эпиляция живота
+лазерная эпиляция зона живота
+линия живота в лазерной эпиляции</description>
+      </offer>
+      <offer id="43" available="true">
+        <name>Лазерная эпиляция белой линии живота</name>
+        <url>https://byebyehair.ru</url>
+        <price>1000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced297cf9fa11c6cb3ee880e88d/orig</picture>
+        <description>Лазерная эпиляция живота — деликатная процедура для удаления волос в зоне белой линии. Белая линия живота в лазерной эпиляции обрабатывается аккуратно и эффективно. Процедура подходит для разных типов кожи, а кожа становится гладкой уже после 1 сеанса
+
+белая линия живота в лазерной эпиляции
+лазерная эпиляция живота
+лазерная эпиляция зона живота
+линия живота в лазерной эпиляции</description>
+      </offer>
+      <offer id="44" available="true">
+        <name>Лазерная эпиляция рук полностью</name>
+        <url>https://byebyehair.ru</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced266237b2fb761e59fb9617ba/orig</picture>
+        <description>Лазерная эпиляция рук полностью на гибридном лазере. Лазерная эпиляция волос рук подходит для разных типов кожи и волос. Руки после лазерной эпиляции становятся гладкими уже после первых процедур. ByeByeHair — более 3000 клиентов 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+гибридный лазер для эпиляции что это
+лазерная эпиляция волос рук
+лазерная эпиляция рук
+руки после лазерной эпиляции</description>
+      </offer>
+      <offer id="45" available="true">
+        <name>Лазерная эпиляция рук до локтя</name>
+        <url>https://byebyehair.ru</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019ced266237b2fb761e59fb9617ba/orig</picture>
+        <description>Лазерная эпиляция рук на гибридном лазере. Лазерная эпиляция волос рук безопасно и эффективно для разных типов кожи. Руки после лазерной эпиляции становятся гладкими уже после первых процедур.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+гибридный лазер для эпиляции что это
+лазерная эпиляция волос рук
+лазерная эпиляция рук
+руки после лазерной эпиляции</description>
+      </offer>
+      <offer id="46" available="true">
+        <name>Лазерная эпиляция подмышечных впадин</name>
+        <url>https://byebyehair.ru</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced25a371212ef0d64faa774b9b/orig</picture>
+        <description>Работаем на гибридном лазере последнего поколения: сочетает несколько длин волн и воздействует на волос на разных уровнях. Эффективен для тёмных и светлых волос, подходит для любого фототипа, включая загорелую кожу. Процедура проходит безболезненно.
+
+депиляция
+депиляция москва
+лазерная депиляция
+лазерная эпиляция
+лазерная эпиляция волос
+лазерная эпиляция для мужчин
+процедура лазерной эпиляции
+студия лазерной эпиляции
+удаление волос</description>
+      </offer>
+      <offer id="47" available="true">
+        <name>Лазерная эпиляция области ареолы</name>
+        <url>https://byebyehair.ru</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019ced23b00644f13c8141dd636ae2/orig</picture>
+        <description>Работаем на гибридном лазере последнего поколения: сочетает несколько длин волн и воздействует на волос на разных уровнях. Эффективен для тёмных и светлых волос, подходит для любого фототипа, включая загорелую кожу. Процедура проходит безболезненно.
+
+депиляция
+депиляция москва
+лазерная депиляция
+лазерная эпиляция
+лазерная эпиляция волос
+лазерная эпиляция для мужчин
+процедура лазерной эпиляции
+студия лазерной эпиляции
+удаление волос</description>
+      </offer>
+      <offer id="48" available="true">
+        <name>Лазерная эпиляция шеи</name>
+        <url>https://byebyehair.ru</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced212fe6242aa507c06acb758d/orig</picture>
+        <description>Лазерная эпиляция шеи у женщин — комфортное и безболезненное решение для удаления нежелательных волос. Эпиляция лазером выполняется на гибридном аппарате, подходит для разных типов кожи. Лазерное удаление волос делает кожу шеи гладкой и ухоженной.</description>
+      </offer>
+      <offer id="49" available="true">
+        <name>Лазерная эпиляция лица полностью</name>
+        <url>https://byebyehair.ru</url>
+        <price>4500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced212fe6242aa507c06acb758d/orig</picture>
+        <description>Работаем на гибридном лазере последнего поколения: сочетает несколько длин волн и воздействует на волос на разных уровнях. Эффективен для тёмных и светлых волос, подходит для любого фототипа, включая загорелую кожу. Процедура проходит безболезненно.
+
+депиляция
+депиляция москва
+лазерная депиляция
+лазерная эпиляция
+лазерная эпиляция волос
+лазерная эпиляция для мужчин
+процедура лазерной эпиляции
+студия лазерной эпиляции
+удаление волос</description>
+      </offer>
+      <offer id="50" available="true">
+        <name>Лазерная эпиляция подбородка</name>
+        <url>https://byebyehair.ru</url>
+        <price>1000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced212fe6242aa507c06acb758d/orig</picture>
+        <description>Работаем на гибридном лазере последнего поколения: сочетает несколько длин волн и воздействует на волос на разных уровнях. Эффективен для тёмных и светлых волос, подходит для любого фототипа, включая загорелую кожу. Процедура проходит безболезненно.
+
+депиляция
+депиляция москва
+лазерная депиляция
+лазерная эпиляция
+лазерная эпиляция волос
+лазерная эпиляция для мужчин
+процедура лазерной эпиляции
+студия лазерной эпиляции
+удаление волос</description>
+      </offer>
+      <offer id="51" available="true">
+        <name>Лазерная эпиляция верхней губы</name>
+        <url>https://byebyehair.ru</url>
+        <price>1000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17791271/2a0000019ced212fe6242aa507c06acb758d/orig</picture>
+        <description>Работаем на гибридном лазере последнего поколения: сочетает несколько длин волн и воздействует на волос на разных уровнях. Эффективен для тёмных и светлых волос, подходит для любого фототипа, включая загорелую кожу. Процедура проходит безболезненно.
+
+депиляция
+депиляция москва
+лазерная депиляция
+лазерная эпиляция
+лазерная эпиляция волос
+лазерная эпиляция для мужчин
+процедура лазерной эпиляции
+студия лазерной эпиляции
+удаление волос</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
